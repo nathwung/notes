@@ -4,7 +4,7 @@
 [![Powered by Firebase](https://img.shields.io/badge/Powered%20by-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Deployed on Firebase Hosting](https://img.shields.io/badge/Hosted%20on-Firebase%20Hosting-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://bulkynotes.web.app)
 
-A note-taking web application built with **Vue.js** and the **Quasar Framework**, featuring secure user authentication, real-time note editing, and live tracking of writing statistics. Data is synced and stored using **Firebase Authentication** and **Cloud Firestore**, ensuring persistence and accessibility across devices.
+A secure note-taking application built with Vue.js and the Quasar Framework, integrated with Firebase Authentication and Cloud Firestore. The platform enables real-time note editing and live writing statistics. Deployed seamlessly with Firebase Hosting.
 
 ---
 
