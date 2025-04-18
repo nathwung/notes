@@ -20,7 +20,6 @@ A secure note-taking application built with **Vue.js** and the **Quasar Framewor
 - Each note displays:
   - 🕓 Date & time created
   - 🔠 Live character count
-- All changes (edits/deletes) sync instantly to **Cloud Firestore**
 
 ### 📊 Stats Dashboard
 - Track total number of notes
