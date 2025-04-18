@@ -11,9 +11,9 @@ A note-taking web application built with **Vue.js** and the **Quasar Framework**
 ## 🚀 Features
 
 ### 🔐 User Authentication
-- Register and log in with email and password via **Firebase Authentication**
-- Registration date and user info are securely stored
-- Persistent sessions for returning users
+- Register using name, email, and password
+- Secure login/logout via Firebase Authentication
+- Auto-login for returning users
 
 ### 📝 Note Management
 - Create, edit, and delete notes
@@ -30,10 +30,6 @@ A note-taking web application built with **Vue.js** and the **Quasar Framework**
 ### 💡 Real-time Sync
 - Notes are automatically updated across sessions/devices using **Cloud Firestore**
 - All changes reflect instantly in the database
-
-### 📱 User Experience
-- Responsive UI with **Quasar Framework**
-- Clean layout for distraction-free note-taking
 
 ---
 
