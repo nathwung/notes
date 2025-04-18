@@ -24,7 +24,6 @@ A secure note-taking application built with **Vue.js** and the **Quasar Framewor
 ### 📊 Stats Dashboard
 - Track total number of notes
 - Monitor total characters written across all notes
-- View character count per note in real time
 
 ### 🔁 Realtime Syncing
 - All updates (creating, editing, or deleting notes) are synced live with **Cloud Firestore**
