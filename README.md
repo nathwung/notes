@@ -4,7 +4,7 @@
 [![Powered by Firebase](https://img.shields.io/badge/Powered%20by-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Deployed on Firebase Hosting](https://img.shields.io/badge/Hosted%20on-Firebase%20Hosting-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://bulkynotes.web.app)
 
-A secure note-taking application built with Vue.js and the Quasar Framework, integrated with Firebase Authentication and Cloud Firestore. The platform enables real-time note editing and live writing statistics. Deployed seamlessly with Firebase Hosting.
+A secure note-taking application built with **Vue.js** and the **Quasar Framework**, integrated with **Firebase Authentication** and **Cloud Firestore**. The platform enables real-time note editing and live writing statistics. Deployed seamlessly with Firebase Hosting.
 
 ---
 
@@ -19,7 +19,7 @@ A secure note-taking application built with Vue.js and the Quasar Framework, int
 - Create, edit, and delete notes
 - Each note displays:
   - 🕓 Date & time created
-  - 🔠 Character count
+  - 🔠 Live character count
 - All changes (edits/deletes) sync instantly to **Cloud Firestore**
 
 ### 📊 Stats Dashboard
@@ -27,9 +27,8 @@ A secure note-taking application built with Vue.js and the Quasar Framework, int
 - Monitor total characters written across all notes
 - View character count per note in real time
 
-### 💡 Real-time Sync
-- Notes are automatically updated across sessions/devices using **Cloud Firestore**
-- All changes reflect instantly in the database
+### 🔁 Realtime Syncing
+- All updates (creating, editing, or deleting notes) are synced live with **Cloud Firestore**
 
 ---
 
