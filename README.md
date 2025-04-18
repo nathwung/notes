@@ -19,7 +19,7 @@ A note-taking web application built with **Vue.js** and the **Quasar Framework**
 - Create, edit, and delete notes
 - Each note displays:
   - 🕓 Date & time created
-  - 🔠 Live character count
+  - 🔠 Character count
 - All changes (edits/deletes) sync instantly to **Cloud Firestore**
 
 ### 📊 Stats Dashboard
@@ -36,7 +36,7 @@ A note-taking web application built with **Vue.js** and the **Quasar Framework**
 ## 🛠 Tech Stack
 
 - **Frontend**: Vue.js, Quasar Framework, HTML, CSS, JavaScript  
-- **Database**: Cloud Firestore (Firebase)  
+- **Database**: Cloud Firestore 
 - **Authentication**: Firebase Authentication  
 - **Hosting**: Firebase Hosting
 
